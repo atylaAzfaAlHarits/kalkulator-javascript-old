@@ -1,8 +1,8 @@
 # Kalkulator-JavaScript
 Kalkulator menggunakan JavaScript
 <br />
-Link Preview : https://harits2505.github.io/Kalkulator-JavaScript/
+Link Preview : https://harits2505.github.io/kalkulator-javascript/
 <br />
-Pembuat : Atyla Azfa Al Harits
+Author : Atyla Azfa Al Harits
 <br />
 Github : https://github.com/Harits2505
